@@ -1,4 +1,12 @@
-div.bio{
+.bio{
 	text-align: left;
-	font: bold;
+	background-color: lightgray;
+}
+
+h1{
+	background-color: lightgray;
+}
+
+body{
+	background-color: #bff7df;
 }
